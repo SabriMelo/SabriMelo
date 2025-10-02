@@ -1,4 +1,4 @@
-##👋 Oie, me chamo Sabrina e bem vindo ao meu espaço
+# 👋 Oie, me chamo Sabrina e bem vindo ao meu espaço
 
 ✨ Sou Desenvolvedora Back-end em formação, em uma jornada de transição da Arquitetura para o mundo da tecnologia 💻. Movida pela paixão em resolver problemas e construir soluções digitais, tenho direcionado meus estudos para desenvolvimento de APIs com Java e Python. Acredito que minha experiência anterior em Arquitetura e modelagem 3D me trouxe organização, atenção aos detalhes e capacidade de transformar ideias em projetos concretos — habilidades que agora aplico no universo da programação.  
 
