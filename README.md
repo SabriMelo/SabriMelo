@@ -45,7 +45,7 @@
 ---
 
 ## 🌎 Onde me encontrar
-📧 Email: sabrinabernardo.melo@email.com  
+📧 Email: sabrinabernardo.melo@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sabrina-melo-a28b3018a)
 💻 
 
