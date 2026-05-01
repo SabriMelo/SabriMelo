@@ -1,6 +1,6 @@
 # 👋 Oie, me chamo Sabrina 
 
-✨ Sou Desenvolvedora Full Stack em formação, em uma jornada de transição da Arquitetura para o mundo da tecnologia 💻. Movida pela paixão em resolver problemas e construir soluções, tenho direcionado meus estudos para desenvolvimento Back-end. Acredito que minha experiência anterior em Arquitetura e modelagem 3D me trouxe organização, atenção aos detalhes e capacidade de transformar ideias em projetos concretos — habilidades que agora aplico no universo da programação.  
+✨ Sou Desenvolvedora Full Stack em formação, em uma jornada de transição da Arquitetura para o mundo da tecnologia 💻. Movida pela paixão em resolver problemas e construir soluções, tenho direcionado meus estudos para desenvolvimento Front-End. Acredito que minha experiência anterior em Arquitetura e modelagem 3D me trouxe organização, atenção aos detalhes e capacidade de transformar ideias em projetos concretos — habilidades que agora aplico no universo da programação.  
 
 📚 Estudando APIs REST, bancos de dados relacionais e boas práticas de programação.  
 
