@@ -10,7 +10,7 @@ Hoje aplico tudo isso no desenvolvimento de interfaces: sites que não só funci
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-melo-a28b3018a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinamelo-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinabernardo.melo@gmail.com)
 
 </div>
@@ -93,7 +93,7 @@ Site pessoal com UI de alto impacto: animações SVG path-draw, magnetic buttons
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-[🌐 Ver site →](https://lumestudio.dev.com)
+[🌐 Ver site →](https://lumestudio.dev.br)
 
 </td>
     <td width="50%" valign="top"></td>
