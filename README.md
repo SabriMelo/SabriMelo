@@ -86,7 +86,7 @@ Aplicativo desktop que registra automaticamente quanto tempo cada colaborador pa
 ### ✨ lumeDev — Portfólio Pessoal
 `em desenvolvimento`
 
-Site pessoal com UI de alto impacto: animações SVG path-draw, magnetic buttons, curtain transitions, dual-text stagger e scroll horizontal via ScrollTrigger.
+Site pessoal com animações de entrada via GSAP ScrollTrigger com stagger e efeito de texto embaralhado no hover, feito em JavaScript com requestAnimationFrame.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
